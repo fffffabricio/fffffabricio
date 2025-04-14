@@ -9,7 +9,7 @@
 
 ## ***🌴About me***
 
-I am an undergraduate System's Engineering at UTN FRBA. I love to learn and build something new, productive and innovative 
+Undergraduate Systems Engineering student at UTN FRBA, passionate about building productive and innovative solutions. 
 <h2>👀 My languages </h2>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
