@@ -21,6 +21,6 @@ Undergraduate Systems Engineering student at UTN FRBA, passionate about building
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
-<a href="https://discord.com/users/tu_id_de_usuario"> 
+<a href="https://discord.com/users/fffffabricio"> 
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
